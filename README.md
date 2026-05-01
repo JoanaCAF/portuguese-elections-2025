@@ -79,7 +79,7 @@ portuguese_elections/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/portuguese-elections-2025.git
+git clone https://github.com/JoanaCAF/portuguese-elections-2025.git
 cd portuguese-elections-2025
 ```
 
