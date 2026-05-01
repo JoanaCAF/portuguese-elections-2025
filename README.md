@@ -106,7 +106,7 @@ Start with `01_data_preparation.ipynb` to build the feature table, then proceed 
 ## 👩‍💻 Author
 
 **Joana Ferreira** — Data Analyst  
-[GitHub](https://github.com/YOUR_USERNAME)
+[GitHub](https://github.com/JoanaCAF)
 
 *Independent project developed as part of a broader portfolio in electoral data science and predictive modelling.*
 
