@@ -99,7 +99,7 @@ Start with `01_data_preparation.ipynb` to build the feature table, then proceed 
 
 - Historical Chega vote share in legislative elections is the strongest predictor of municipal growth
 - Municipalities with higher immigration rates and lower purchasing power show stronger Chega growth
-- LOO-CV models achieve ~XX% accuracy on the binary classification task
+
 
 ---
 
